@@ -49,7 +49,7 @@ Il nostro vero punto di forza è la contaminazione di idee. Il team è composto 
 Siamo sempre pronti ad analizzare nuovi progetti e trasformarli in realtà digitali performanti. Se hai un'idea da sviluppare o un'infrastruttura da modernizzare, parliamone.
 
 *   📧 **Email:** [hello@tuaorganizzazione.com]
-*   🌐 **Website:** [www.tuaorganizzazione.com]
+*   🌐 **Website:** [https://gn-d3v.github.io/portfolio/]
 
 ---
 <div align="center">
