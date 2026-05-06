@@ -1,6 +1,6 @@
 # 🚀 Benvenuti in GN D3V
 
-Siamo una software house dinamica specializzata nella progettazione e sviluppo di **software su commissione**. Uniamo l'entusiasmo, l'innovazione e la ricerca continua del mondo accademico con il rigore metodologico dell'ingegneria del software.
+Siamo un gruppo di ragazzi appassionati della progettazione e sviluppo di **software**. Uniamo l'entusiasmo, l'innovazione e la ricerca continua del mondo accademico con il rigore metodologico dell'ingegneria del software.
 
 La nostra missione è trasformare idee complesse in prodotti digitali eleganti, scalabili e orientati al risultato, aiutando le aziende a ottimizzare i propri processi.
 
@@ -23,8 +23,8 @@ Il nostro vero punto di forza è la contaminazione di idee. Il team è composto 
 | Profilo | Ruolo & Competenze | Status Accademico |
 | :--- | :--- | :--- |
 | **[Paolo Iacovissi]** | Tech Lead & Software Architect <br>| 🎓 Laureato in Ingegneria Informatica, Sistemi Software e Progettazione Web|
-| **[Filippo Maria Carletti]** | Sviluppatore Full-Stack <br>| 📚 Studente di Ingengeria del Software e Progettazione Web |
-| **[Yari Antonio Bellardini]** | Sviluppatore Frontend / UI-UX <br> | 📚 Studente di Ingengeria del Software e Progettazione Web|
+| **[Filippo Maria Carletti]** | Sviluppatore Full-Stack <br>| 📚 Studente di Ingegneria del Software e Progettazione Web |
+| **[Yari Antonio Bellardini]** | Sviluppatore Frontend / UI-UX <br> | 📚 Studente di Ingegneria del Software e Progettazione Web|
 
 > *Crediamo fortemente nella formazione continua: ogni riga di codice che scriviamo per i nostri clienti è frutto di studio, passione e best practice di ingegneria condivise in team.*
 
