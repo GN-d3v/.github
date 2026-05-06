@@ -1,6 +1,6 @@
 # 🚀 Benvenuti in GN D3V
 
-Siamo un gruppo di ragazzi appassionati della progettazione e sviluppo di **software**. Uniamo l'entusiasmo, l'innovazione e la ricerca continua del mondo accademico con il rigore metodologico dell'ingegneria del software.
+Siamo un gruppo di ragazzi appassionati della progettazione e sviluppo di **software**. Uniamo l'entusiasmo, l'innovazione e la ricerca continua del mondo accademico con il rigore metodologico dell[...]
 
 La nostra missione è trasformare idee complesse in prodotti digitali eleganti, scalabili e orientati al risultato, aiutando le aziende a ottimizzare i propri processi.
 
@@ -18,13 +18,13 @@ Sviluppare software "su misura" significa per noi non offrire mai soluzioni stan
 
 ## 👨‍💻 Il Team
 
-Il nostro vero punto di forza è la contaminazione di idee. Il team è composto da brillanti studenti in ambito tech, supervisionati e guidati da un Ingegnere Informatico laureato. Questo assetto ci permette di garantire al tempo stesso codice fresco, utilizzo di tecnologie all'avanguardia e architetture estremamente solide e sicure.
+Il nostro vero punto di forza è la contaminazione di idee. Il team è composto da brillanti studenti in ambito tech, supervisionati e guidati da un Ingegnere Informatico laureato. Questo assetto [...]
 
 | Profilo | Ruolo & Competenze | Status Accademico |
 | :--- | :--- | :--- |
-| **[Paolo Iacovissi]** | Tech Lead & Software Architect <br>| 🎓 Laureato in Ingegneria Informatica, Sistemi Software e Progettazione Web|
+| **[Paolo Iacovissi]** | Software Architect & Cyber Security <br>| 🎓 Laureato in Ingegneria Informatica, Sistemi Software e Progettazione Web|
 | **[Filippo Maria Carletti]** | Sviluppatore Full-Stack <br>| 📚 Studente di Ingegneria del Software e Progettazione Web |
-| **[Yari Antonio Bellardini]** | Sviluppatore Frontend / UI-UX <br> | 📚 Studente di Ingegneria del Software e Progettazione Web|
+| **[Yari Antonio Bellardini]** | Sviluppatore Full-Stack <br> | 📚 Studente di Ingegneria del Software e Progettazione Web|
 
 > *Crediamo fortemente nella formazione continua: ogni riga di codice che scriviamo per i nostri clienti è frutto di studio, passione e best practice di ingegneria condivise in team.*
 
