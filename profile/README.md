@@ -1,4 +1,4 @@
-# 🚀 Benvenuti in GN D3V
+# 🚀 Benvenuti in GN d3v
 
 Siamo un gruppo di ragazzi appassionati della progettazione e sviluppo di **software**. Uniamo l'entusiasmo, l'innovazione e la ricerca continua del mondo accademico con il rigore metodologico dell[...]
 
